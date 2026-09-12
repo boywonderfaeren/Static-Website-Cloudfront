@@ -45,7 +45,7 @@ Error document error.html (optional)
 
 ![Enabling static website](images/image5.png)
 
-4. Added my Bucket policy in the permissions section to provide public accessibility to the objects in the bucket. [View Policy](StaticWebsite/Policy.txt)
+4. Added my Bucket policy in the permissions section to provide public accessibility to the objects in the bucket. [View Policy](Policy.txt)
 
 ![Bucket Policy](images/image6.png)
 
@@ -88,7 +88,7 @@ I also entered my Origin which is my bucket “boywonder” because that’s whe
 
 2. Tested the website by copying domain and pasting in another browser.
 The static website opened in the new browser securely.
-[Domain](dhpf8vg6lmevp.cloudfront.net)
+[Domain](https://dhpf8vg6lmevp.cloudfront.net)
 
 ![POP Design](images/image13.png)
 
